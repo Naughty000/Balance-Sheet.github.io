@@ -1,0 +1,65 @@
+.con{
+    border:2px solid gray;
+    height:100%;
+    width:60%;
+    margin:0 auto;
+}
+
+.subdiv1{
+    background-color: #0A0A23;
+    height:30px;
+    color:white;
+    text-align: right;
+    padding-bottom: 10px;
+   border-bottom:none;
+}
+
+
+
+.con h3{
+    width:95%;
+    margin-left:15px;
+    color:#356EAF;
+}
+
+h1,h4{
+    margin-left:15px;
+}
+
+th{
+    font-size: 15px;
+    
+}
+#row{
+    background-color: gray;
+}
+td{
+font-size: 13px;
+}
+#word{
+    font-size: 12px;
+    font-style: italic;
+}
+
+#t1,#t2{
+    width: 95%;
+    border-collapse:separate;
+    border-spacing: 0 10px;
+    margin: 0 auto;
+    border-bottom:3px double black;
+   margin-bottom: 10px;
+}
+
+#t3{
+    width: 95%;
+    border-collapse:separate;
+    border-spacing: 0 10px;
+    margin: 0 auto;
+   margin-bottom: 10px;
+}
+
+
+.total:hover{
+    background-color: rgb(184, 184, 241);
+}
+
